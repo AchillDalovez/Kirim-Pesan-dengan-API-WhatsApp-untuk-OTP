@@ -4,7 +4,7 @@ include("./library/whatsva.php");
 $whatsva = new Whatsva();
 
 $instance_key = "V103EvgIU66v";
-$jid = "62895361034833";
+$jid = "085693723196";
 
 $message = "Halo"; 
         
